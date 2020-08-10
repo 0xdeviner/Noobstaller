@@ -11,8 +11,8 @@ echo "${red} /    \ /  _ \ /  _ \| __ \  /  ___/\   __\__  \ |  | |  | _/ __ \_ 
 echo "${red}|   |  (  <_> |  <_> ) \_\ \ \___ \  |  |  / __ \|  |_|  |_\  ___/|  | \/ ${reset}"
 echo "${red}|___|  /\____/ \____/|___  / ____  > |__| (____  /____/____/\___  >__|    ${reset}"
 echo "${red}     \/                  \/      \/            \/               \/        ${reset}"
-echo "${red}									                                      ${reset}"
-echo "${red}     	            Script by D E V I N E R	                    		  ${reset}"
+echo "${red}                                                                          ${reset}"
+echo "${red}                             Script by D E V I N E R                      ${reset}"
 
 
 echo "${blue}Are you sure you want to install everything?${reset}"
