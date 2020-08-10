@@ -1,5 +1,10 @@
 #!/bin/bash
 
+
+red=`tput setaf 1`
+green=`tput setaf 2`
+reset=`tput sgr0`
+
 echo "${red}                    ___.             __         .__  .__                  ${reset}"
 echo "${red}  ____   ____   ____\_ |__    _______/  |______  |  | |  |   ___________  ${reset}"
 echo "${red} /    \ /  _ \ /  _ \| __ \  /  ___/\   __\__  \ |  | |  | _/ __ \_  __ \ ${reset}"
@@ -21,9 +26,6 @@ while true; do
     esac
 done
 
-red=`tput setaf 1`
-green=`tput setaf 2`
-reset=`tput sgr0`
 
 echo "${red}UPDATING and UPGRADING your system${reset}"
 sudo apt-get -y update
