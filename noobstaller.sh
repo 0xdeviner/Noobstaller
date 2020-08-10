@@ -11,14 +11,14 @@ echo "${red} /    \ /  _ \ /  _ \| __ \  /  ___/\   __\__  \ |  | |  | _/ __ \_ 
 echo "${red}|   |  (  <_> |  <_> ) \_\ \ \___ \  |  |  / __ \|  |_|  |_\  ___/|  | \/ ${reset}"
 echo "${red}|___|  /\____/ \____/|___  / ____  > |__| (____  /____/____/\___  >__|    ${reset}"
 echo "${red}     \/                  \/      \/            \/               \/        ${reset}"
-echo "${red}							 											  ${reset}"
-echo "${red}     						 Script by D E V I N E R					  ${reset}"
+echo "${red}									                                      ${reset}"
+echo "${red}     	            Script by D E V I N E R	                    		  ${reset}"
 
 
 echo "${blue}Are you sure you want to install everything?${reset}"
 
 while true; do
-    read -p "Press [Y] for: Yes of course I Want or [N] for: Nope] " yn
+    read -p "Press [Y] for: Yes of course I Want or [N] for: Nahh " yn
     case $yn in
         [Yy]* ) echo "Okay Let's Start"; break;;
         [Nn]* ) echo "Make your mind Bruh!!"; exit;;
