@@ -262,6 +262,7 @@ tar xvf gau_1.0.3_linux_386.tar.gz
 mv gau /usr/bin/gau
 rm LICENSE
 rm README.md
+cd ~/recon/
 rm go1.13.4.linux-amd64.tar.gz
 echo "${green}Installed${reset}"
 echo "====================================================================="
