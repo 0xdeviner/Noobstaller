@@ -1,7 +1,6 @@
-# Recon-Bug-Bounty
+# Noobstaller
 
-All Recon Stuffs Goes here!
-
-## Just a repo for my recon stuffs! Feel free to make any changes you want :)
+A Bash script to install all my goto tools for Web-App Pentesting.
 
 
+`NOTE: This WIll be updated soon`
